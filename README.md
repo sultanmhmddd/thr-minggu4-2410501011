@@ -27,9 +27,9 @@ Fitur unggulan:
 - Custom Hook: `useHabits` (dalam file `useTracker.js`) berfungsi untuk mengabstraksi logika perhitungan progres matematika yang kompleks dan menyediakan fungsi aksi (`dispatch`) ke komponen UI agar kode lebih bersih (Clean Code).
 
 ## Screenshot
-1. Tampilan Dashboard (Light Mode) ![Dashboard Light](./screenshots/sc1.jpeg)
-2. Tampilan Tambah Ibadah Baru (Modal) ![Tambah Amalan](./screenshots/sc2.jpeg)
-3. Tampilan Progres & Dark Mode ![Dark Mode Progress](./screenshots/sc3.jpeg)
+1. Tampilan Dashboard (Light Mode) ![Dashboard Light](./screenshoots/sc1.jpeg)
+2. Tampilan Tambah Ibadah Baru (Modal) ![Tambah Amalan](./screenshoots/sc2.jpeg)
+3. Tampilan Progres & Dark Mode ![Dark Mode Progress](./screenshoots/sc3.jpeg)
 
 ## Cara Menjalankan
 1. Clone Repository ini.
